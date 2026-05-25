@@ -39,13 +39,16 @@ Der VRM Access Token wird nicht im Repository gespeichert. Nach der Installation
 
 ```text
 https://vrm.victronenergy.com
+
 Mit dem Victron Account anmelden
 Oben rechts auf das Benutzerprofil klicken
 „Preferences“ bzw. „Einstellungen“ öffnen
 Menüpunkt „Integrations“ auswählen
 Unter „Access Tokens“ auf „Add Token“ klicken
+
 Einen Namen vergeben, z. B.:
 ioBroker Dashboard
+
 Token erstellen und kopieren
 Den Token in der Adapter-Konfiguration eintragen
 VRM Site ID finden
